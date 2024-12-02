@@ -2,7 +2,7 @@ import java.util.*;
 /**
  * Main class to Patient, Covid19Patient and RegularPatient classes
  */
-public class MainMenu {
+public class driver {
 
 	/**
 	 * @param args
